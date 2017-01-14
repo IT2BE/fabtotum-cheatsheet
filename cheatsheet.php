@@ -1,7 +1,7 @@
 <?php
 	/*
 	   Plugin Name: Cheat Sheet
-	   Plugin URI: http://www.marceltrapman.com/cheatsheet.html
+	   Plugin URI: https://github.com/IT2BE/fabtotum-cheatsheet
 	   Version: 1.0
 	   Description: A FABui Plug-in to check out G-codes
 	   Author: Marcel Trapman

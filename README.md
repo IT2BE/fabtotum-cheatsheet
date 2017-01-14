@@ -1,8 +1,18 @@
 # G-code Cheat Sheet plugin
 The G-code Cheat Sheet plugin for the FABtotum Personal Fabricator
 
+### Introduction
+The G-code Cheat Sheet plugin was created because I found myself browsing the internet for a G-code all the time.
+
+The last time I did this I figured that it would make sense to have a cheat sheet in the printer.
+Saving me a lot of time
+
+I found the codes and descriptions in the source and I copied it 1:1.
+
+I can think of a couple of enhancements but I would like to hear your ideas.
+
 ### FreeBSD License
-Copyright (c) 2014, Marcel Trapman
+Copyright (c) 2017, Marcel Trapman
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
